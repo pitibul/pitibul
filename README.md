@@ -1,4 +1,5 @@
 Boas vindas ao meu perfil 🇬🇷
+
 Meu nome é Gabriel Galvão
 - Estou estudando na alura
 - Estou me desenvolvendo na linguagem JavaScript
