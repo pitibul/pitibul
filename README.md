@@ -4,5 +4,7 @@ Meu nome é Gabriel Galvão
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para organização e compartilhamento
   dos meus projetos desenvolvidos
-  ![africano](https://i.makeagif.com/media/9-14-2021/zVFHzp.gif)
+
+
+   ![africano](https://i.makeagif.com/media/9-14-2021/zVFHzp.gif)
 
