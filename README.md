@@ -6,5 +6,7 @@ Meu nome é Gabriel Galvão
   dos meus projetos desenvolvidos
 
 
-   ![africano](https://i.makeagif.com/media/9-14-2021/zVFHzp.gif)
+
+
+    ![africano](https://i.makeagif.com/media/9-14-2021/zVFHzp.gif)
 
